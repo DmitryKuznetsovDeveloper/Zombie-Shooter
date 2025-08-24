@@ -1,16 +1,17 @@
 {
-  "name": "com.starkre.unity-atomic",
+  "name": "com.starkre.unity-atomic-experimental",
   "author": "Igor Gulkin",
   "displayName": "Unity Atomic",
-  "unity": "2020.3",
-  "version": "2.0.0",
+  "unity": "2022.3.1",
+  "version": "3.0.0",
   "keywords": [
-    "atomic"
+    "atomic",
+    "experimental"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/StarKRE22/unity-atomic.git"
+    "url": "https://github.com/StarKRE22/unity-atomic.git#experimental"
   },
- 
-  "description": "The atomic approach is an object-oriented approach for game object development, representing a game object as a composition of atomic data and functions. The atomic object provides a common interface for interacting with it's properties and functions of various entities, and also has the ability to change the structure of an object at runtime."
+
+  "description": "Experimental concept of game object development"
 }
